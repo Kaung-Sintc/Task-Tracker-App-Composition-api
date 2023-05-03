@@ -1,5 +1,5 @@
 # Task Tracker with Vuejs (Composition Api)
-#### [Same Project](https://github.com/Kaung-Sintc/Task-Tracker-app) using `<script setup>` and state managment as [Pinia](https://pinia.vuejs.org)
+#### [Same Project](https://github.com/Kaung-Sintc/Task-Tracker-app) but this is using `<script setup>` and state managment as [Pinia](https://pinia.vuejs.org)
 ![demo-image](src/assets/images/demo.png)
 
 ## Project Setup and Installation
