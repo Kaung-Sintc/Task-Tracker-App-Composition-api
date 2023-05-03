@@ -1,7 +1,37 @@
-# Vue 3 + Vite
+# Task Tracker with Vuejs using json-server and Pinia ( Composition api `<script setup>` )
+![demo-image](src/assets/images/demo.png)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Project Setup and Installation
+clone this repo `https://github.com/Kaung-Sintc/Task-Tracker-App-Composition-api.git` or download zip file
 
-## Recommended IDE Setup
+Install required dependencies
+```
+npm install
+```
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### start json server
+```
+jsx json-server data/db.json
+```
+
+### Or if you want to globally install json-server in your computer, run:
+
+```
+npm install -g json-server
+```
+
+### And start json-server by running:
+
+```
+json-server data/db.json --watch
+```
+
+## Compiles and hot-reloads for development
+```
+npm run dev
+```
+
+## Compiles and minifies for production
+```
+npm run build
+```
