@@ -1,4 +1,5 @@
-# Task Tracker with Vuejs using json-server and Pinia ( Composition api `<script setup>` )
+# Task Tracker with Vuejs (Composition Api)
+#### [Same Project](https://github.com/Kaung-Sintc/Task-Tracker-app) using `<script setup>` and state managment as [Pinia](https://pinia.vuejs.org)
 ![demo-image](src/assets/images/demo.png)
 
 ## Project Setup and Installation
