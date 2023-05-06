@@ -5,7 +5,7 @@
 ## Project Setup and Installation
 clone this repo `https://github.com/Kaung-Sintc/Task-Tracker-App-Composition-api.git` or download zip file
 
-Install required dependencies
+### Install required dependencies
 ```
 npm install
 ```
